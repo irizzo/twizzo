@@ -1,0 +1,12 @@
+{
+  "name": "twizzo",
+  "displayName": "twizzo",
+  "expo": {
+    "name": "twizzo",
+    "slug": "twizzo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
